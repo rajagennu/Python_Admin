@@ -19,5 +19,3 @@ print ("Server FQDN:",fqdn)
 print ("Server Architecture:",arch," and Machine Architecture: ",macarch)
 print ("Server Kernel and OS:",platform.platform())
 print ("#########################################################################")
-
-

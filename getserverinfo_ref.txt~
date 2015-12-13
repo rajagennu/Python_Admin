@@ -7,7 +7,3 @@ os.uname()
 posix.uname_result(sysname='Linux', nodename='mylocalserver.com', release='2.6.32-573.8.1.el6.i686', version='#1 SMP Tue Nov 10 14:58:44 UTC 2015', machine='i686')
 >>> 
 
-4. Very imp library to get sys information 
-
-https://docs.python.org/3/library/platform.html
-
