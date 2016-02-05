@@ -14,4 +14,31 @@ usage(total=18642034688, used=3242377216, free=14429097984)
 17.7784296875
 >>> round((a.total/(1024*1024*1000)),2)
 17.78
+======================
+Old
+
+'%s %s' % ('one', 'two')
+New
+
+'{} {}'.format('one', 'two')
+Output
+
+one two
+Old
+
+'%d %d' % (1, 2)
+New
+
+'{} {}'.format(1, 2)
+Output
+
+1 2
+============================
+:wq
+
+%d , %Value for integers
+%s , %string for strings 
+
+==========================
+
 
